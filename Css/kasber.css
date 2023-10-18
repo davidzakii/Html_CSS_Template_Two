@@ -928,14 +928,14 @@ header .container nav .form i:hover + .searchButton {
   padding: 20px 20px 20px 50px;
   caret-color: var(--main-color);
   color: white;
-  width: calc(100% - 130px);
+  width: calc(100% - 110px);
   border-right: none;
 }
 .subscribe form input[type='email']::placeholder {
   color: white;
 }
 .subscribe form input[type='submit'] {
-  width: 130px;
+  width: 110px;
   background-color: var(--main-color);
   padding: 20px 20px;
   border: 1px solid white;
