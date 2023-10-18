@@ -1077,6 +1077,15 @@ header .container nav .form i:hover + .searchButton {
   padding: 10px 15px;
   font-size: 25px;
 }
+.footer .social-icon svg {
+  width: 45px;
+  height: 28px;
+  position: relative;
+  top: 5px;
+}
+.footer .social-icon svg path {
+  fill: white;
+}
 .footer .container .copyright {
   margin-top: 60px;
 }
