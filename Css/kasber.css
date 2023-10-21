@@ -925,7 +925,7 @@ header .container nav .form i:hover + .searchButton {
 .subscribe form input[type='email'] {
   border: 1px solid white;
   background-color: initial;
-  padding: 20px 20px 20px 50px;
+  padding: 20px 5px 20px 45px;
   caret-color: var(--main-color);
   color: white;
   width: calc(100% - 110px);
@@ -937,10 +937,11 @@ header .container nav .form i:hover + .searchButton {
 .subscribe form input[type='submit'] {
   width: 110px;
   background-color: var(--main-color);
-  padding: 20px 20px;
+  padding: 20px 15px;
   border: 1px solid white;
   color: white;
   border-left: none;
+  text-align: center;
   text-transform: uppercase;
   cursor: pointer;
 }
